@@ -1,0 +1,9 @@
+stokmiktari=10000
+i=0
+alinan=100
+satilan=500
+fark=alinan-satilan
+while(stokmiktari>0):
+    stokmiktari=stokmiktari+fark
+    i=i+1
+print(i)
